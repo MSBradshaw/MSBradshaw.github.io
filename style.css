@@ -69,3 +69,28 @@ body{
 .text a{
   color: #0062B8;
 }
+
+.pageTitle{
+  margin: 30px;
+}
+.pubList{
+  grid-column: 1/4;
+  margin: 30px;
+  margin-top: 0;
+}
+
+.pubList a{
+  text-decoration: none;
+  color: #0062B8;
+  font-size: 1.5em;
+}
+
+.pubList li{
+  margin-bottom: 15px;
+}
+
+.pubList h3{
+  font-size: 1.5em;
+  color: #002255;
+  margin-bottom: 5px;
+}
